@@ -190,6 +190,7 @@ span{
     font-size: 34px;
     font-weight: 600;
     min-width: 280px;
+    white-space: nowrap;
 }
 .text-animation span{
     position: relative;
