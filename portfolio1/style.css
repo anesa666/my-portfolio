@@ -388,7 +388,7 @@ span{
     display: flex;
     flex-direction: column;
     text-align: left;
-    max-height: 200px;
+    max-height: 250px;
     justify-content: left;
     align-items: baseline;
     padding: 3rem 3rem;
